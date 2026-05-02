@@ -5,8 +5,8 @@
 This project is a simple SQL-based Student Database Management System created to understand basic database concepts.
 
 It includes:
-- Table creation (DDL)
-- Data insertion (DML)
+- Table creation
+- Data insertion
 - Queries (SELECT, WHERE, JOIN)
 - Aggregate functions (AVG, COUNT, etc.)
 - Views for reporting
@@ -14,8 +14,7 @@ It includes:
 ---
 
 ## 🛠️ Tech Stack
-- SQL (SQLite)
-- DB Browser for SQLite
+- SQL
 
 ---
 
@@ -64,3 +63,4 @@ It includes:
 ### Get all students
 ```sql
 SELECT * FROM Students;
+ 
